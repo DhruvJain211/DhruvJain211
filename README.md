@@ -57,9 +57,9 @@
 </div>
 </details>
 
-### Support Me
+<!--### Support Me
 
-<a href="https://www.buymeacoffee.com"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>-->
 
 <h4 align="center">Show ❤️ by 🌟 my repositories!</h4>
 
