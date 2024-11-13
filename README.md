@@ -51,7 +51,8 @@
 <summary><b>🔥 Streak & Github Stats ⚡ </b></summary>
 <br>
 <div style={display:flex ; gap:20}>
-<a  href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=DhruvJain211&theme=dark&hide_border=true border_radius=5&card_width=500&card_height=200" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DhruvJain211&theme=dark&hide_border=true" 
+alt="GitHub Streak" /></a>
 <!--<img src="https://github-readme-stats.vercel.app/api?username=DhruvJain211&show_icons=true&theme=radical&count_private=true" alt="DhruvJain211" height="200" width="420"/>&nbsp;-->
 <img src="https://github-readme-stats-eight-pink.vercel.app//api/top-langs/?username=DhruvJain211&layout=compact&theme=radical" alt="DhruvJain211" width="400" height="200">
 </div>
