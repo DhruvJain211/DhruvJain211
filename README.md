@@ -4,7 +4,7 @@
   </ul>
 </div>
 
-<p>Hi there, I'm a passionate Full Stack Developer and mentor who loves building modern Web/App applications and continuously seeking out new technologies.</p>
+<p>Hi there, I'm a passionate Full Stack Developer and loves building modern Web/App applications and continuously seeking out new technologies.</p>
 
  <picture> <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="right"  width = 450px /> </picture>
 
